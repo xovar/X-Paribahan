@@ -1,0 +1,24 @@
+.text-color{
+    color: #1DD100;
+}
+.bg-color{
+    background-color: #1DD100;
+}
+
+.btn-bg-color{
+    background-color:  rgba(29, 209, 0, 0.10);
+}
+
+.btn-boder{
+    border-radius: 12px;
+    border: 1px solid rgba(29, 209, 0, 0.40);
+    background: rgba(29, 209, 0, 0.10);
+}
+
+.font-raleway{
+    font-family: "Raleway", serif
+}
+
+.font-inter{
+    font-family: "Inter", serif;
+}
